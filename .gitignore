@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DB_WebApp/DB_WebApp/App_Data/DB_WebAppContext-20210307173737.mdf
