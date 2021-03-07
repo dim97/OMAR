@@ -15,6 +15,6 @@ namespace DB_WebApp.Models
         public DateTime TodayDate { get; set; }
         public Customer Customer { get; set; }
         public Reservation Reservation { get; set; }
-        public int NumberOfPeopke { get; set; }
+        public int NumberOfPeople { get; set; }
     }
 }
