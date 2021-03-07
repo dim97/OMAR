@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
@@ -7,10 +8,11 @@ namespace DB_WebApp.Models
 {
     public class Rooms
     {
-        public int Id;
-        public int Floor;
-        public string View;
-        public string Category;
-        public string Price;
+        [Key]
+        public int Id { get; set; }
+        public int Floor { get; set; }
+        public string View { get; set; }
+        public string Category { get; set; }
+        public string Price { get; set; }
     }
 }

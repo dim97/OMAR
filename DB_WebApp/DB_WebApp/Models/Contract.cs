@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
@@ -7,12 +8,13 @@ namespace DB_WebApp.Models
 {
     public class Contract
     {
-        public int Id;
-        public Employee Employee;
-        public int Summ;
-        public DateTime TodayDate;
-        public Customer Customer;
-        public Reservation Reservation;
-        public int NumberOfPeopke;
+        [Key]
+        public int Id { get; set; }
+        public Employee Employee { get; set; }
+        public int Summ { get; set; }
+        public DateTime TodayDate { get; set; }
+        public Customer Customer { get; set; }
+        public Reservation Reservation { get; set; }
+        public int NumberOfPeopke { get; set; }
     }
 }
