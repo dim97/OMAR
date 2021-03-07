@@ -72,8 +72,11 @@ D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\bin\System.Web.WebPage
 D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\bin\Newtonsoft.Json.xml
 D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\bin\Antlr3.Runtime.pdb
 D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\obj\Debug\DB_WebApp.csprojAssemblyReference.cache
 D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\obj\Debug\DB_WebApp.csproj.CoreCompileInputs.cache
 D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\obj\Debug\DB_WebApp.csproj.CopyComplete
 D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\obj\Debug\DB_WebApp.dll
 D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\obj\Debug\DB_WebApp.pdb
+D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\bin\EntityFramework.dll
+D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\bin\EntityFramework.SqlServer.dll
+D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\bin\EntityFramework.xml
+D:\VS_PROJECTS\source\repos\DB_WebApp\DB_WebApp\DB_WebApp\bin\EntityFramework.SqlServer.xml

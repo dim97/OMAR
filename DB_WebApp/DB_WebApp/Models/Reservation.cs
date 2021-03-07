@@ -8,7 +8,7 @@ namespace DB_WebApp.Models
     public class Reservation
     {
         public int Id;
-        public Room Room;
+        public Rooms Rooms;
         public Customer Customer;
         public DateTime CheckIn;
         public DateTime CheckOut;
